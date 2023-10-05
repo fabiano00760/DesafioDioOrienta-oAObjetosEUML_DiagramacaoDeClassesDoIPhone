@@ -1,0 +1,11 @@
+-------------------------        -------------------------       -------------------------
+|     Reprodutor        |        |    Aparelho          |       |     Navegador         |
+|      Musical          |        |    Telefônico       |       |    na Internet       |
+-------------------------        -------------------------       -------------------------
+|                       |        |                       |       |                       |
+| + play(): void        |        | + fazerChamada():    |       | + abrirSite(url:      |
+| + pause(): void       |        |    void               |       |    String): void      |
+| + stop(): void        |        | + receberChamada(): |       | + fecharSite(): void  |
+| + selecionarMusica(): |        |    void               |       |                       |
+|   void                |        |                       |       |                       |
+-------------------------        -------------------------       -------------------------
